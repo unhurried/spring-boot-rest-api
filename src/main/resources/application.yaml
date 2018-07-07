@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost/api
+    username: user
+    password: password
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      maximum-pool-size: 20
+      minimum-idle: 10
+logging:
+    level:
+        root: INFO
+app:
+  string: stringProperty
+  list:
+    - listProperty1
+    - listProperty2
