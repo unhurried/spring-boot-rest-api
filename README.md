@@ -1,3 +1,5 @@
+**\* This project is archived and replaced by [backend-example-spring](https://github.com/unhurried/backend-example-spring).**
+
 # spring-boot-rest-api
 
 A sample project that implements Restful APIs with [Spring Boot](https://spring.io/projects/spring-boot)
